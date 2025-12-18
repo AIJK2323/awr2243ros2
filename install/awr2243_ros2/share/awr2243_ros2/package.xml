@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>awr2243_ros2</name>
+  <version>0.0.1</version>
+  <description>ROS 2 nodes wrapping ekurtgl AWR2243 + DCA1000 capture/processing (minimal)</description>
+  <maintainer email="you@example.com">You</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+

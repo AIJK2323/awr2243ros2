@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+# EASY-INSTALL-DEV-SCRIPT: 'awr2243-raw-capture==0.1.0','capture_node'
+__requires__ = 'awr2243-raw-capture==0.1.0'
+__import__('pkg_resources').require('awr2243-raw-capture==0.1.0')
+__file__ = '/home/impress-nuk2/ros2_ws/build/awr2243_raw_capture/scripts/capture_node'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))

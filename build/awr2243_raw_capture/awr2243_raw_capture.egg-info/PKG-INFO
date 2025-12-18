@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: awr2243-raw-capture
+Version: 0.1.0
+Summary: Minimal ROS2 node to trigger DCA1000 raw capture via CLI.
+Maintainer: Your Name
+Maintainer-email: you@example.com
+License: MIT

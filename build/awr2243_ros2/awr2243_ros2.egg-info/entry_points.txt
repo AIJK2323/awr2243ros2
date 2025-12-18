@@ -1,0 +1,3 @@
+[console_scripts]
+raw_capture_node = awr2243_ros2.raw_capture_node:main
+rd_offline_node = awr2243_ros2.rd_offline_node:main

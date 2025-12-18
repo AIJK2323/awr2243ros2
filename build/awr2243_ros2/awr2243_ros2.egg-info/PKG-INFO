@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: awr2243-ros2
+Version: 0.0.1
+Summary: ROS2 wrappers for AWR2243 + DCA1000
+Maintainer: you
+Maintainer-email: you@example.com
+License: MIT

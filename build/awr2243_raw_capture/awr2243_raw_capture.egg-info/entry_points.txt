@@ -1,0 +1,2 @@
+[console_scripts]
+capture_node = awr2243_raw_capture.capture_node:main

@@ -1,0 +1,2 @@
+[console_scripts]
+recorder = awr2243_recorder.node:main

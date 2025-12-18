@@ -1,0 +1,9 @@
+source;share/awr2243_raw_capture/hook/pythonpath.ps1
+source;share/awr2243_raw_capture/hook/pythonpath.dsv
+source;share/awr2243_raw_capture/hook/pythonpath.sh
+source;share/awr2243_raw_capture/hook/ament_prefix_path.ps1
+source;share/awr2243_raw_capture/hook/ament_prefix_path.dsv
+source;share/awr2243_raw_capture/hook/ament_prefix_path.sh
+source;../../build/awr2243_raw_capture/share/awr2243_raw_capture/hook/pythonpath_develop.ps1
+source;../../build/awr2243_raw_capture/share/awr2243_raw_capture/hook/pythonpath_develop.dsv
+source;../../build/awr2243_raw_capture/share/awr2243_raw_capture/hook/pythonpath_develop.sh

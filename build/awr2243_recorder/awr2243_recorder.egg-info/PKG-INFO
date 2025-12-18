@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: awr2243-recorder
+Version: 0.1.0
+Summary: ROS 2 node to record AWR2243/DCA1000 UDP raw data to .bin files.
+Maintainer: Your Name
+Maintainer-email: you@example.com
+License: MIT
